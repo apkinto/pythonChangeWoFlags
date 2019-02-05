@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psConfiguration>
+  <variableList>
+    <psInputDirectory>D:\Python\Lizhan\UnitTestData\xmlInput</psInputDirectory>
+    <psOutputDirectory>D:\Python</psOutputDirectory>
+    <!--<psXml>Simple.xml</psXml>
+    <resource>R2</resource>-->
+	<psXml>Vision.xml</psXml>
+	<resource>MIXER1 MIXER2</resource>
+	<resourceGroup>Build_Lines</resourceGroup>
+   <jc>test</jc>
+  </variableList>
+</psConfiguration>
